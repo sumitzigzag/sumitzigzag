@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ alok gupta
+- 👋 Hi, I’m @ sumit malohtra
 - 👀 I’m interested in hacking
 - 🌱 I’m currently learning coding
 - 💞️ I’m looking to collaborate on linkind
